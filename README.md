@@ -1,6 +1,6 @@
-# FP-DARTS: Search Loss Gradient-aware Pruning for one-shot Neural Architecture Search
+# FP-DARTS: Fine-grained Progressive ArchitectureSelection via Gradient-aware Loss PerturbationEstimation 
 
-This repository is the official implementation of [FP-DARTS: Search Loss Gradient-aware Pruning for one-shot Neural Architecture Search]. 
+This repository is the official implementation of [FP-DARTS: Fine-grained Progressive ArchitectureSelection via Gradient-aware Loss PerturbationEstimation]. 
 
 ## Requirements
 
